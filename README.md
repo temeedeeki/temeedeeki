@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to temeedeeki's GitHub Profile
 
-<!--
-**temeedeeki/temeedeeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Researchs
 
-Here are some ideas to get you started:
+Diffusion models for medical imaging:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SPECT (single photon emission computed tomography)
+- XFCT (X-ray fluorescence computed tomography)
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,bash,latex,linux,ubuntu&perline=8)](https://skillicons.dev)
+
+## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temeedeeki&layout=compact)
