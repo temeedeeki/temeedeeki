@@ -13,4 +13,4 @@ Diffusion models for medical imaging:
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temeedeeki&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temeedeeki&layout=compact&theme=tokyonight)](https://github.com/temeedeeki)
